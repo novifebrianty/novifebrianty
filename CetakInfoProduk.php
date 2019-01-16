@@ -15,6 +15,6 @@ class CetakInfoProduk {
 		}
 		return $str;
 	}
-} 
+}
 
-?>
+ ?>
