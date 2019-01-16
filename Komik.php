@@ -24,5 +24,4 @@ class Komik extends Produk implements InfoProduk {
 		return $str;
 	}
 }
-
  ?>
